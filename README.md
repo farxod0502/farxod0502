@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @farxod0502
-- 👀 I’m interested in c++ && java
+- 👀 I’m interested in learning c++ && java programmer language.
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
